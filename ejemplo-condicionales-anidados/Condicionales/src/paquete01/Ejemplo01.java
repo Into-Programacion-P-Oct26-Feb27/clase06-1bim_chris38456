@@ -44,3 +44,10 @@ public class Ejemplo01 {
     }
 
 }
+
+
+/*
+    El ususario debe de ingresar el valor de 1 para trabajar con AND.
+    El código debe de comprobar los resultados sie 1 > 0 && 1 <= 3 ambas son T
+    entonces la pantalla le mostrará Trabajar con AND
+*/
