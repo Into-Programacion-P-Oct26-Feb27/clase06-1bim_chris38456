@@ -20,6 +20,7 @@ public class Comercio02 {
         
         String nombre;
         String apellido;
+        
         int edad;
         double sueldoBasico;
         int numeroProductos;
